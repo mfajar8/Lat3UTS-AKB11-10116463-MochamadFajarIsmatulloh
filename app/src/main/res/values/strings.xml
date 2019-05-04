@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Ismatulloh</string>
+    <string name="navi_home">Home</string>
+    <string name="navi_daily">Daily</string>
+    <string name="navi_gallery">Gallery</string>
+    <string name="navi_media">Media</string>
+    <string name="navi_profile">Profile</string>
+    <string name="jSlider1">Selamat Datang</string>
+    <string name="descSlider1">Ini adalah aplikasi tentang Fajar</string>
+    <string name="jSlider2">Mau tahu lebih lanjut?</string>
+    <string name="descSlider2">Seperti Biodata, Foto-foto, Aktifitas sehari-hari, dll</string>
+    <string name="jSlider3">Sudah siap?</string>
+    <string name="descSlider3">Tekan start di kanan bawah yaa..</string>
+    <string name="root">Silahkan pilih menu yang sesuai</string>
+</resources>
